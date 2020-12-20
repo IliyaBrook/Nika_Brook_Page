@@ -1,0 +1,44 @@
+label{
+    color: snow;
+}
+
+.contactForm{
+    position: absolute;
+    top: 20%;
+    left: 5%;
+    right: 20%;
+    width: 50%;
+    background-color: rgba(10,10,10,0.4);
+    padding: 2%;
+    border-radius: 3%;
+}
+
+.emptyFields{
+    position: absolute;
+    width: 30%;
+    height: 20%;
+    right: 20%;
+    left: 20%;
+    top: 30%;
+    border: 2px solid black;
+    border-radius: 40px;
+    background-color: rgba(30,25,20,0.5);
+}
+.emptyFieldsSpan {
+    margin: 30px;
+    color: white;
+}
+
+@media screen and (max-width: 768px) {
+    .contactForm{
+        position: absolute;
+        top: 10%;
+        left: 5%;
+        right: 2%;
+        width: 90%;
+        background-color: rgba(10,10,10,0.4);
+        padding: 2%;
+        border-radius: 3%;
+    }
+}
+

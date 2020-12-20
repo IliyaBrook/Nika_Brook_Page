@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="650ebc9e-51e8-47c5-9ae7-500f52921378" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/debug.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/image/large/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/image/large/10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/image/large/11.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/image/large/12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/image/large/13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/image/large/14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/image/large/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/image/large/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/image/large/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/image/large/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/image/large/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/image/large/7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/image/large/8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/image/large/9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/image/medium/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/image/medium/10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/image/medium/11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/image/medium/12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/image/medium/13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/image/medium/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/image/medium/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/image/medium/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/image/medium/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/image/medium/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/image/medium/7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/image/medium/8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/image/medium/9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/image/small/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/image/small/10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/image/small/11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/image/small/12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/image/small/13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/image/small/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/image/small/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/image/small/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/image/small/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/image/small/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/image/small/7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/image/small/8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/image/small/9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Component/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Component/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Component/Biography/Biography.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Component/Biography/Biography.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Component/Contact/Contact.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Component/Contact/Contact.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Component/Main-page/Main-page.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Component/Main-page/Main-page.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Component/Media/Media.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Component/Media/Media.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/wife_web_site_react.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/wife_web_site_react.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reportWebVitals.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/setupTests.js" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1lW1ydeiGrnRmIOEViX7LwhcJNs" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../NodeJs/mail-form-server" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2020.2.3\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Codding\Projects\wife_web_site_react\src\Components" />
+      <recent name="D:\Codding\Projects\wife_web_site_react\src\Components\Main-page" />
+      <recent name="D:\Codding\Projects\wife_web_site_react\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.npm start">
+    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
+      <method v="2" />
+    </configuration>
+    <configuration name="npm start" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="650ebc9e-51e8-47c5-9ae7-500f52921378" name="Default Changelist" comment="" />
+      <created>1607698288760</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607698288760</updated>
+      <workItem from="1607698289917" duration="13877000" />
+      <workItem from="1607712292393" duration="1878000" />
+      <workItem from="1607714298965" duration="2200000" />
+      <workItem from="1607716651600" duration="17610000" />
+      <workItem from="1607801513694" duration="4654000" />
+      <workItem from="1607806264904" duration="2686000" />
+      <workItem from="1607810224024" duration="23714000" />
+      <workItem from="1608061712239" duration="32237000" />
+      <workItem from="1608408487327" duration="64000" />
+      <workItem from="1608413339584" duration="4034000" />
+      <workItem from="1608448164397" duration="321000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>

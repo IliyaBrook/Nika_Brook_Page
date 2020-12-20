@@ -1,0 +1,67 @@
+.nav-main{
+    display: flex;
+    width: 100%;
+    justify-content: flex-end;
+}
+.nav-bar{
+    width: 30%;
+}
+.nav-content{
+    justify-content: space-around;
+
+}
+/*buttons*/
+.MuiButton-root {
+    font-family: auto, sans-serif !important;
+    letter-spacing: 2px !important;
+}
+.MuiButtonBase-root{
+    outline: none !important;
+}
+.BtnIfTrue{
+    color: blanchedalmond !important;
+}
+.BtnIfFalse ,a{
+    color: snow !important;
+    text-decoration: none !important;
+}
+.MuiButton-root{
+
+}
+    /*panel color*/
+.MuiAppBar-colorPrimary {
+ background-color: rgba(136, 160, 175, 0.10) !important;
+}
+/*Mai Page Body*/
+/*background Image*/
+.backgroundImg{
+    height:auto;
+    width:100%;
+}
+
+
+@media screen and (max-width: 440px) {
+    .nav-bar{
+        width: 100%;
+        font-size: 10px;
+
+    }
+    .MuiToolbar-gutters{
+        padding: 0 !important;
+    }
+    .nav-main{
+        justify-content: space-around;
+        border: 1px solid snow;
+    }
+}
+@media screen and (max-width: 1000px) {
+    .nav-bar{
+        width: 50%;
+    }
+}
+@media screen and (max-width: 620px) {
+    .nav-bar{
+        width: 65%;
+    }
+}
+
