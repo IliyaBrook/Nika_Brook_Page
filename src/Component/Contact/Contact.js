@@ -5,24 +5,29 @@ import './Contact.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import {Button} from 'react-bootstrap';
 
+
+
 export default function Contact () {
 
     const [formEmail,setFormEmail] = useState('')
     const [formMessage,setFormMessage] = useState('')
-    const [ifFormEmpty,setIfFormEmpty] = useState(false)
-    const [formLoading,setFormLoading] = useState(false)
+    const [btnState , setBtnState] = useState({
+        value:'Send',
+        variant:'primary'
+    })
 
-
-    const submitForm = (e) => {
+    const btnToDefaultStateTimer = () => {
+         setTimeout(() => setBtnState({value:'Send',variant:'primary'}),4000)
+    }
+     const submitForm = (e) => {
         e.preventDefault()
         setFormEmail('')
         setFormMessage('')
         if (formMessage === '') {
-            setIfFormEmpty(true)
+            setBtnState({value:'Text form cannot be empty',variant:'danger'})
             setTimeout(() => {
-                this.setState({ifFormEmpty: false})
+                setBtnState({value:'Send',variant:'primary'})
                 setTimeout(() => {
-                    setIfFormEmpty(false)
                 })
             }, 4000)
         }
@@ -30,8 +35,8 @@ export default function Contact () {
             clientEmail: formEmail,
             clientMessage: formMessage
         }
-        if (formMessage !== '') {
-            setFormLoading(true)
+        if(formMessage !== '') {
+            setBtnState({value:'Loading…',variant:'warning'})
             const serverUrl = 'http://localhost:8000/'
             fetch(serverUrl, {
                 method: 'post',
@@ -43,8 +48,12 @@ export default function Contact () {
             }).then((res) => {
                 if (res.ok) {
                     console.log('Post complete')
-                    setFormLoading(false)
+                    setBtnState({value:'Send complete',variant:'success'})
+                    btnToDefaultStateTimer()
                 }
+            }).catch(()=>{
+                setBtnState({value:"Error,not sent",variant:'danger'})
+                btnToDefaultStateTimer()
             })
         }
     }
@@ -69,8 +78,8 @@ export default function Contact () {
                             <Form.Control as="textarea" rows={10} value={formMessage}
                                           onChange={onMessage}/>
                         </Form.Group>
-                        <Button  type="submit" variant="primary">
-                            {formLoading ? 'Sending…' : 'Send'}
+                        <Button  type="submit" variant={btnState.variant}>
+                            {btnState.value}
                         </Button>
                     </Form>
                 </div>
