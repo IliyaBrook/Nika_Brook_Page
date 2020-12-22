@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="650ebc9e-51e8-47c5-9ae7-500f52921378" name="Default Changelist" comment="complete 12.22.2020">
-      <change beforePath="$PROJECT_DIR$/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintcache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Component/Contact/Contact.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Component/Contact/Contact.js" afterDir="false" />
     </list>
@@ -81,7 +80,8 @@
       <workItem from="1608408487327" duration="64000" />
       <workItem from="1608413339584" duration="4034000" />
       <workItem from="1608448164397" duration="993000" />
-      <workItem from="1608474774633" duration="20963000" />
+      <workItem from="1608474774633" duration="21692000" />
+      <workItem from="1608670545127" duration="488000" />
     </task>
     <task id="LOCAL-00001" summary="Initialize project using Create React App">
       <created>1608448504619</created>
@@ -97,7 +97,21 @@
       <option name="project" value="LOCAL" />
       <updated>1608448515083</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="complete 12.22.2020">
+      <created>1608669802903</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1608669802904</updated>
+    </task>
+    <task id="LOCAL-00004" summary="complete 12.22.2020">
+      <created>1608670171839</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1608670171839</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

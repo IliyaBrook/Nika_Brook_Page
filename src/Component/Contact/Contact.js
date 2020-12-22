@@ -37,7 +37,7 @@ export default function Contact () {
         }
         if(formMessage !== '') {
             setBtnState({value:'Loading…',variant:'warning'})
-            const serverUrl = 'http://localhost:8000/'
+            const serverUrl = 'https://nika-mail-server.herokuapp.com/'
             fetch(serverUrl, {
                 method: 'post',
                 body: JSON.stringify(formData),
